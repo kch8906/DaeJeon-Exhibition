@@ -1,6 +1,10 @@
 # DaeJeon-Exhibition
 ### 대전시립미술관 전시(2016년)
-캐나다 EmilyCarr 대학교 애니메이션 학생들과 협업하여 Unity3D를 이용하여 C#으로 제작
+캐나다 EmilyCarr 대학교 애니메이션 학생들과 협업하여 Unity3D를 이용하여 C#으로 제작(코드만 업로드)
+
+# file
+.egg 압축 되어있어서 변경하여 추후에 구글 드라이브에 재업로드
+
 
 # Concept
 ![Daejeon Project Brainstorm](https://user-images.githubusercontent.com/64409693/190299220-13c42707-856f-4312-bc45-ae2c4b2f2d52.png)
